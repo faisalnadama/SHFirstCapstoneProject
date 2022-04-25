@@ -1,5 +1,7 @@
 body {
     background-color: hsl(217, 28%, 15%);
     color: white;
-     font-weight: 400;
+     font-weight: 400 700;
+     font-family: Open Sans;
 }
+
